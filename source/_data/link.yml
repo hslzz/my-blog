@@ -1,0 +1,103 @@
+- class_name: 开发基础
+  class_desc: 各位奠基的框架们
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简洁且高效的博客框架
+    - name: Node.js
+      link: https://nodejs.org/
+      avatar: https://tse4-mm.cn.bing.net/th/id/OIP-C.5gf2JQQmWla-GU-WXTrGcgHaE8?w=3000&h=2000&rs=1&pid=ImgDetMain
+      descr: 在任何地方运行 JavaScript
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/butterfly-icon.png
+      descr: 基于hexo-theme-melody的基础上进行开发的主题
+      
+- class_name: 推荐の友链
+  class_desc: 特别重要的朋友们
+  link_list:
+    - name: Ariasakaの小窝
+      link: https://blog.yaria.top/
+      avatar: https://bu.dusays.com/2024/12/05/67517bcf104da.png
+      descr: 人有悲欢离合 月有阴晴圆缺
+    - name: 清羽飞扬
+      link: https://blog.liushen.fun/
+      avatar: https://blog.liushen.fun/info/avatar.ico
+      descr: 柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜
+    - name: 葱苓sama
+      link: https://blog.ciraos.top/
+      avatar: https://blog.ciraos.top/avatar1.avif
+      descr: Do not worry, be happy.
+    - name: Redish101
+      link: https://blog.redish101.top
+      avatar: https://github.com/redish101.png
+      descr: 人文 科技 白日梦.
+
+- class_name: 好朋友们
+  class_desc: 善良可爱的朋友们
+  link_list:
+    - name: 纸鹿摸鱼处
+      link: https://blog.zhilu.cyou/
+      avatar: https://www.zhilu.cyou/api/avatar.png
+      descr: 纸鹿至麓不知路，支炉制露不止漉
+    - name: 陌颜Hao
+      link: https://blog.imoyan.top/
+      avatar: https://bu.dusays.com/2024/10/12/6709ddf3513c5.jpg
+      descr: 愿永不忘初心！
+    - name: Tianli
+      link: https://blog.tianli0.top/
+      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640
+      descr: 自知之明是最可贵的知识！
+    - name: 呓语梦轩
+      link: https://blog.awaae001.top/
+      avatar: https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg
+      descr: 用心享受生活
+    - name: 星の野
+      link: https://byer.top/
+      avatar: https://bu.dusays.com/2023/10/01/6519291503349.jpg
+      descr: 我自是年少，韶华倾负
+    - name: 煮雪话河山`Blog
+      link: https://blog.cent1pedee.top/
+      avatar: https://img.cent1pedee.top/img/wechat.jpg
+      descr: 如月之恒，如日之升。
+    - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      descr: 分享设计与科技生活
+    - name: 无限进步
+      link: https://wgming.cn/
+      avatar: https://q2.qlogo.cn/g?b=qq&nk=3489996586&s=100
+      descr: 不用急着赶路，去感受路
+    - name: 轻笑Chuckle
+      link: https://www.qcqx.cn/
+      avatar: https://www.qcqx.cn/head.webp
+      descr: 漫天倾尘,风中轻笑
+    - name: Akilarの糖果屋
+      link: https://akilar.top/
+      avatar: https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg
+      descr: 欢迎光临糖果屋
+    - name: 贰猹的小窝
+      link: https://noionion.top/
+      avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+      descr: 用这生命中的每一秒，给自己一个不后悔的未来
+    - name: 云游君的小站
+      link: https://www.yunyoujun.cn/
+      avatar: https://www.yunyoujun.cn/images/avatar.jpg
+      descr: 希望能成为一个有趣的人。
+    - name: 煮雪话河山
+      link: https://blog.cent1pedee.top/
+      avatar: https://img.cent1pedee.top/img/wechat.jpg
+      descr: 如月之恒，如日之升
+    - name: HiPeach
+      link: https://blog.opeach.cn
+      avatar: https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp
+      descr: 妙不可言
+    - name: 青稚の空间
+      link: https://blog.linux-qitong.top/
+      avatar: https://blog.linux-qitong.top/img/avatar.avif
+      descr: 越努力，越幸运.
+    - name: L1nSn0w
+      link: https://linsnow.cn/
+      avatar: https://linsnow.cn/avatar.png
+      descr: 无限进步！
