@@ -14,17 +14,17 @@
       avatar: https://butterfly.js.org/img/butterfly-icon.png
       descr: 基于hexo-theme-melody的基础上进行开发的主题
       
-- class_name: 推荐の友链
-  class_desc: 特别重要的朋友们
+- class_name: 推荐友链
+  class_desc: 相谈甚多的朋友们
   link_list:
-    - name: Ariasakaの小窝
-      link: https://blog.yaria.top/
-      avatar: https://bu.dusays.com/2024/12/05/67517bcf104da.png
-      descr: 人有悲欢离合 月有阴晴圆缺
     - name: 清羽飞扬
       link: https://blog.liushen.fun/
       avatar: https://blog.liushen.fun/info/avatar.ico
       descr: 柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜
+    - name: Ariasakaの小窝
+      link: https://blog.yaria.top/
+      avatar: https://bu.dusays.com/2024/12/05/67517bcf104da.png
+      descr: 人有悲欢离合 月有阴晴圆缺
     - name: 葱苓sama
       link: https://blog.ciraos.top/
       avatar: https://blog.ciraos.top/avatar1.avif
