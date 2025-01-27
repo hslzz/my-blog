@@ -67,7 +67,7 @@ favicon: /img/favicon.ico
 # 头像设置
 avatar:
   # 头像图片链接
-  img: /favicon.png
+  img: /img/favicon.png
   # 是否启用头像效果，头像会一直转圈
   effect: false
 
@@ -1180,13 +1180,13 @@ pwa:
   # PWA manifest 文件路径
   manifest:
   # Apple Touch 图标路径
-  apple_touch_icon: /img/apple-touch-icon.png
+#  apple_touch_icon: /img/apple-touch-icon.png
   # 32x32 像素的 favicon 图标路径
-  favicon_32_32: /img/favicon-32x32.png
+#  favicon_32_32: /img/favicon-32x32.png
   # 16x16 像素的 favicon 图标路径
-  favicon_16_16: /img/favicon-16x16.png
+#  favicon_16_16: /img/favicon-16x16.png
   # mask 图标路径
-  mask_icon: /img/mask-icon.svg
+#  mask_icon: /img/mask-icon.svg
 
 # Open graph meta tags
 # 参见 https://hexo.io/docs/helpers#open-graph
