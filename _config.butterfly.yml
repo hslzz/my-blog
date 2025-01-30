@@ -15,6 +15,7 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   友链: /link/ || fas fa-link
+  个人主页: https://hslzz.cn/ || fas fa-home
   #声明: /license/ || fas fa-scale-balanced
   #清单||fa fa-heartbeat:
   #音乐: /music/ || fas fa-music
@@ -62,7 +63,7 @@ social:
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: /img/favicon.ico
+favicon: /favicon.ico
 
 # 头像设置
 avatar:
@@ -307,7 +308,7 @@ footer:
     # 网站创建年份
     since: 2019
   # 自定义文本
-  custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank">萌ICP备20251314号</a>
+  custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank">萌ICP备20251314号</a><div class="rin-card-content">本站由 <a href="https://chuqiyun.com/" target="_blank" rel="noopener">初七云</a> 提供云加速服务</div>
   # 主题和框架的版权声明
   copyright: true
 
@@ -804,7 +805,7 @@ baidu_analytics:
 
 # 谷歌分析配置
 # 官方网站：https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-JKXWL13ZZQ
 
 # Cloudflare 分析配置
 # 官方网站：https://www.cloudflare.com/zh-tw/web-analytics/
@@ -1212,7 +1213,7 @@ inject:
   head:
     - <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96" />
     - <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
-    - <link rel="shortcut icon" href="/img/favicon.ico" />
+    - <link rel="shortcut icon" href="/favicon.ico" />
     - <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
     - <meta name="apple-mobile-web-app-title" content="花生莲子粥" />
     - <link rel="manifest" href="/img/site.webmanifest" />
