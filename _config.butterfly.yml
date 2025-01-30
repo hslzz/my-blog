@@ -1211,6 +1211,7 @@ css_prefix: true
 # 插入代码到 head（在 '</head>' 标签之前）和底部（在 '</body>' 标签之前）
 inject:
   head:
+    - <meta name="description" content="欢迎光临花生莲子粥のHexo新博客~">
     - <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96" />
     - <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
     - <link rel="shortcut icon" href="/favicon.ico" />
