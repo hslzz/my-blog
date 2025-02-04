@@ -17,7 +17,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-<!--【教程】在Kali2024.4安装QQ Linux版-->>
+<!--【教程】在Kali2024.4安装QQ Linux版-->
   <url>
     <loc>https://blog.hslzz.cn/20250127150000.html</loc>
     <lastmod>2025-01-27</lastmod>
@@ -46,6 +46,7 @@
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>  <!-- 这里补全了闭合标签 -->
   <url>
     <loc>https://blog.hslzz.cn/tags/Hexo/</loc>
     <lastmod>2025-01-30</lastmod>
