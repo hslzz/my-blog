@@ -1,0 +1,8 @@
+@font-face {
+    font-family: HYTMR;
+    font-display: swap;
+    src: url(https://npm.elemecdn.com/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2) format("woff2")
+}
+body {
+    font-family: 'HYTMR', sans-serif;
+}
