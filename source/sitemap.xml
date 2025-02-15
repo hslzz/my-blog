@@ -10,30 +10,37 @@
   
   <!-- 文章页示例 -->
 
-  <!--Hexo框架 + Butterfly主题博客の安装搭建-->
+  <!-- Hexo框架 + Butterfly主题博客の安装搭建 -->
   <url>
     <loc>https://blog.hslzz.cn/20241206110000.html</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-<!--【教程】在Kali2024.4安装QQ Linux版-->
+<!--【教程】在Kali2024.4安装QQ Linux版 -->
   <url>
     <loc>https://blog.hslzz.cn/20250127150000.html</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <!-- 超简单的Butterfly引入字体教程 -->
+  <url>
+    <loc>https://blog.hslzz.cn/20250214123500.html</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+<!-- -->
   
   <!-- 更多页面... -->
-  <!--友链页-->
+  <!-- 友链页 -->
   <url>
     <loc>https://blog.hslzz.cn/link/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <!--分类页-->
+  <!-- 分类页-->
   <url>
     <loc>https://blog.hslzz.cn/categories/</loc>
     <lastmod>2025-01-01</lastmod>
