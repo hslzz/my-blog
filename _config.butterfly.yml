@@ -137,9 +137,9 @@ error_img:
 # 简单的 404 页面
 error_404:
   # 是否启用 404 页面
-  enable: false
+  enable: true
   # 404 页面的副标题
-  subtitle: 'Page Not Found'
+  subtitle: '你似乎来到了没有知识的沙漠'
   # 404 页面的卡片背景图片
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
@@ -308,7 +308,7 @@ footer:
     # 网站创建年份
     since: 2019
   # 自定义文本
-  custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank" rel="noopener noreferrer nofollow">萌ICP备20251314号</a><div class="rin-card-content">本站由 <a href="https://chuqiyun.com/" target="_blank" rel="noopener noreferrer nofollow">初七云</a> 提供云加速服务</div>
+  custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank" rel="noopener noreferrer nofollow">萌ICP备20251314号</a><div class="rin-card-content">性能与安全由 <a href="https://cloud.hslzz.cn/" target="_blank" rel="noopener noreferrer nofollow">初七云</a> 提供</div>
   # 主题和框架的版权声明
   copyright: true
 
@@ -352,7 +352,7 @@ aside:
     # 是否显示公告卡片
     enable: true
     # 公告内容
-    content: 欢迎光临花生莲子粥のHexo新博客~
+    content: 欢迎光临花生莲子粥の小窝，一起来玩吧！
   card_recent_post:
     # 是否显示最近文章卡片
     enable: true
@@ -545,7 +545,7 @@ math:
 
   katex:
     # 启用复制 KaTeX 公式
-    copy_tex: false
+    copy_tex: true
 
 # --------------------------------------
 # 搜索设置
