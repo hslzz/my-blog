@@ -37,6 +37,10 @@
 - class_name: 好朋友们
   class_desc: 善良可爱的朋友们
   link_list:
+    - name: 微霞
+      link: https://yuuu.org
+      avatar: https://cdn.yuuu.org/img/avatar.webp
+      descr: 水风清，晚霞明
     - name: 纸鹿摸鱼处
       link: https://blog.zhilu.cyou/
       avatar: https://www.zhilu.cyou/api/avatar.png
