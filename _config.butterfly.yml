@@ -939,9 +939,9 @@ beautify:
 # 全局字体设置
 # 除非您知道它们的工作原理，否则不要修改以下设置
 font:
-  global-font-size:
+  global-font-size: 
   code-font-size:
-  font-family:
+  font-family: 
   code-font-family:
 
 # 网站标题和副标题的字体设置
@@ -1110,9 +1110,9 @@ note:
   #  - modern    bs-callout 新 (v2-v3) 警告样式。
   #  - flat      扁平提示框样式，带背景，如 Mozilla 或 StackOverflow。
   #  - disabled  禁用所有 Note 标签的 CSS 样式。
-  style: flat
+  style: simple
   # 是否显示图标
-  icons: true
+  icons: false
   # 边框半径
   border_radius: 3
   # 背景颜色偏移百分比 (modern: -12 | 12; flat: -18 | 6)。

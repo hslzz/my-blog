@@ -39,21 +39,21 @@
     <loc>https://blog.hslzz.cn/link/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.2</priority>
   </url>
   <!-- 分类页-->
   <url>
     <loc>https://blog.hslzz.cn/categories/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.2</priority>
   </url>
   <!--标签页-->
   <url>
     <loc>https://blog.hslzz.cn/tags/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.2</priority>
   </url>  <!-- 这里补全了闭合标签 -->
   <url>
     <loc>https://blog.hslzz.cn/tags/Hexo/</loc>
@@ -87,6 +87,6 @@
     <loc>https://blog.hslzz.cn/archives/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.2</priority>
   </url>
 </urlset>
