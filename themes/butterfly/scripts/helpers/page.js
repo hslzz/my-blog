@@ -145,8 +145,3 @@ hexo.extend.helper.register('getPageType', (page, isHome) => {
   if (isHome) return 'home'
   return 'post'
 })
-
-hexo.extend.helper.register('getVersion', () => {
-  const { version } = require('../../package.json')
-  return { hexo: hexo.version, theme: version }
-})

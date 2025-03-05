@@ -29,6 +29,7 @@ hexo.extend.generator.register('post', locals => {
       previousIndexes.shift()
     }
 
+    console.log(defaultCover[index])
     return defaultCover[index]
   }
 
@@ -63,20 +64,9 @@ hexo.extend.generator.register('post', locals => {
     return data
   }
 
-  // https://github.com/hexojs/hexo/blob/master/lib%2Fplugins%2Fgenerator%2Fpost.ts
-  const posts = locals.posts.sort('date').toArray()
-  const { length } = posts
-
-  return posts.map((post, i) => {
-    if (i) post.prev = posts[i - 1]
-    if (i < length - 1) post.next = posts[i + 1]
-
-    post.__post = true
-
-    return {
-      data: handleImg(post),
-      layout: 'post',
-      path: post.path
-    }
-  })
+  return locals.posts.sort('date').map(post => ({
+    data: handleImg(post),
+    layout: 'post',
+    path: post.path
+  }))
 })
