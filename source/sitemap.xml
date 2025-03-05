@@ -8,27 +8,41 @@
     <priority>1.0</priority>
   </url>
   
-  <!-- 文章页示例 -->
+  <!-- 文章页 -->
 
   <!-- Hexo框架 + Butterfly主题安装日记 -->
   <url>
     <loc>https://blog.hslzz.cn/20241206110000.html</loc>
     <lastmod>2025-01-01</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 <!--【教程】在Kali2024.4安装QQ Linux版 -->
   <url>
     <loc>https://blog.hslzz.cn/20250127150000.html</loc>
     <lastmod>2025-01-27</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <!-- 超简单的Butterfly引入字体教程 -->
   <url>
     <loc>https://blog.hslzz.cn/20250214123500.html</loc>
     <lastmod>2025-01-27</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- 【整活】用29行C++代码写一个Deepseek -->
+  <url>
+    <loc>https://blog.hslzz.cn/20250217135000.html</loc>
+    <lastmod>2025-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- 如何解决Hexo中外链无rel属性导致SEO权重外流问题？ -->
+  <url>
+    <loc>https://blog.hslzz.cn/20250305191500.html</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 <!-- -->
@@ -54,14 +68,13 @@
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
-  </url>  <!-- 这里补全了闭合标签 -->
+  </url>
   <url>
     <loc>https://blog.hslzz.cn/tags/Hexo/</loc>
     <lastmod>2025-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
   <url>
     <loc>https://blog.hslzz.cn/tags/Butterfly/</loc>
     <lastmod>2025-01-30</lastmod>
