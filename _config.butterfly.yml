@@ -1212,7 +1212,7 @@ css_prefix: true
 inject:
   head:
     - <meta name="description" content="欢迎光临花生莲子粥のHexo新博客~">
-    - <link rel="stylesheet" href="/css/font.css">
+    # - <link rel="stylesheet" href="/css/font.css">
     - <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96" />
     - <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
     - <link rel="shortcut icon" href="/favicon.ico" />
