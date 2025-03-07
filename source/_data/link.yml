@@ -49,22 +49,22 @@
       link: https://blog.imoyan.top/
       avatar: https://bu.dusays.com/2024/10/12/6709ddf3513c5.jpg
       descr: 愿永不忘初心！
-##    - name: Tianli
-##      link: https://blog.tianli0.top/
-##      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640
-##      descr: 自知之明是最可贵的知识！
+    - name: Tianli
+      link: https://blog.tianli0.top/
+      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640
+      descr: 自知之明是最可贵的知识！
 ##    - name: 呓语梦轩
 ##      link: https://blog.awaae001.top/
 ##      avatar: https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg
 ##      descr: 用心享受生活
-    - name: 星の野
-      link: https://byer.top/
-      avatar: https://bu.dusays.com/2023/10/01/6519291503349.jpg
-      descr: 我自是年少，韶华倾负
-    - name: 煮雪话河山`Blog
+    - name: 煮雪话河山
       link: https://blog.cent1pedee.top/
       avatar: https://img.cent1pedee.top/img/wechat.jpg
       descr: 如月之恒，如日之升。
+    - name: Fgaoxing
+      link: https://blog.fgaoxing.com/
+      avatar: https://bu.dusays.com/2024/12/05/67517bcf104da.png
+      descr: 人生如梦，梦如人生
 ##    - name: 张洪Heo
 ##      link: https://blog.zhheo.com/
 ##      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
@@ -109,3 +109,19 @@
       link: https://blog.wzwzx.cn/
       avatar: https://cdn.wzwzx.cn/2025/02/fa.jpg
       descr: 想见你，不只是梦里
+
+- class_name: 小伙伴们
+  class_desc: 我们在一起，共同进步
+  link_list:
+    - name: 青稚の空间
+      link: https://blog.linux-qitong.top
+      avatar: https://blog.linux-qitong.top/img/avatar.avif
+      descr: 越努力，越幸运.
+
+- class_name: 失联友链
+  class_desc: 盼君归
+  link_list:
+    - name: 星の野
+      link: https://byer.top/
+      avatar: https://bu.dusays.com/2023/10/01/6519291503349.jpg
+      descr: 我自是年少，韶华倾负
