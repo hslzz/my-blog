@@ -308,7 +308,7 @@ footer:
     # 网站创建年份
     since: 2019
   # 自定义文本
-  custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank" rel="noopener noreferrer nofollow">萌ICP备20251314号</a><div class="rin-card-content">性能与安全由 <a href="https://cloud.hslzz.cn/" target="_blank" rel="noopener noreferrer nofollow">初七云</a> 提供</div>
+  custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank" rel="noopener noreferrer nofollow">萌ICP备20251314号</a><div class="rin-card-content">性能与安全由 <a href="https://chuqiyun.com/aff/KXCIIBKT" target="_blank" rel="noopener noreferrer nofollow">初七云</a> 提供</div>
   # 主题和框架的版权声明
   copyright: true
 
@@ -719,7 +719,7 @@ facebook_comments:
 # 官方文档：https://github.com/imaegoo/twikoo
 twikoo:
   # 环境 ID
-  envId: https://comment.blog.hslzz.cn
+  envId: https://blogcmts.hslzz.cn
   # 区域
   region:
   # 使用 Twikoo 的访客计数作为页面的访客量
