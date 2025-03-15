@@ -62,9 +62,9 @@
       avatar: https://img.cent1pedee.top/img/wechat.jpg
       descr: 如月之恒，如日之升。
     - name: Fgaoxing
-      link: https://blog.fgaoxing.com/
-      avatar: https://bu.dusays.com/2024/12/05/67517bcf104da.png
-      descr: 人生如梦，梦如人生
+      link: https://www.yt-blog.top/
+      avatar: https://img.yt-blog.top/webp/logo.webp
+      descr: 一个少年的博客
 ##    - name: 张洪Heo
 ##      link: https://blog.zhheo.com/
 ##      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
@@ -89,10 +89,6 @@
 ##      link: https://www.yunyoujun.cn/
 ##      avatar: https://www.yunyoujun.cn/images/avatar.jpg
 ##      descr: 希望能成为一个有趣的人。
-    - name: 煮雪话河山
-      link: https://blog.cent1pedee.top/
-      avatar: https://img.cent1pedee.top/img/wechat.jpg
-      descr: 如月之恒，如日之升
 ##    - name: HiPeach
 ##      link: https://blog.opeach.cn
 ##      avatar: https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp
@@ -115,13 +111,13 @@
   link_list:
     - name: 青稚の空间
       link: https://blog.linux-qitong.top
-      avatar: https://blog.linux-qitong.top/img/avatar.avif
+      avatar: https://blog.linux-qitong.top/img/avatar.webp
       descr: 越努力，越幸运.
 
 - class_name: 失联友链
   class_desc: 盼君归
   link_list:
-    - name: 星の野
-      link: https://byer.top/
-      avatar: https://bu.dusays.com/2023/10/01/6519291503349.jpg
-      descr: 我自是年少，韶华倾负
+#    - name: 星の野
+#      link: https://byer.top/
+#      avatar: https://bu.dusays.com/2023/10/01/6519291503349.jpg
+#      descr: 我自是年少，韶华倾负

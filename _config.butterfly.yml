@@ -77,10 +77,10 @@ disable_top_img: false
 
 # 如果页面未设置横幅，则显示默认的横幅图片
 # 默认的 top_img，当页面的 top_img 没有配置时，会显示 default_top_img
-default_top_img: /img/background.jpg
+# default_top_img: /img/background.jpg
 
 # 主页的横幅图片
-index_img: /img/background.jpg
+index_img: /img/108552684_p8.png
 
 # 归档页的横幅图片
 # 归档页面的 top_img
@@ -107,12 +107,12 @@ category_img:
 category_per_img:
 
 # 页脚的背景图片
-footer_img: true
+footer_img: false
 
 # 网站背景
 # 可以设置为颜色或图片
 # 图片格式: url(http://xxxxxx.com/xxx.jpg)
-background: /img/background2.jpg
+background: /img/108552684_p2.png
 
 # 封面设置
 cover:
@@ -181,7 +181,7 @@ post_meta:
 # 站点信息的位置，例如: 300px/300em/300rem/10%
 index_site_info_top:
 # 头图的高度，例如: 300px/300em/300rem
-index_top_img_height: 400px
+index_top_img_height: 
 # 首页的副标题设置
 subtitle:
   # 是否启用副标题
@@ -1212,7 +1212,9 @@ css_prefix: true
 inject:
   head:
     - <meta name="description" content="欢迎光临花生莲子粥のHexo新博客~">
-    # - <link rel="stylesheet" href="/css/font.css">
+    - <link rel="stylesheet" href="/css/custom.css">
+
+  # favicon
     - <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96" />
     - <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
     - <link rel="shortcut icon" href="/favicon.ico" />
