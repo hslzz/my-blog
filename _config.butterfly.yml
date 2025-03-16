@@ -298,7 +298,7 @@ footer:
     # 网站创建年份
     since: 2019
   # 自定义文本
-  custom_text: 
+  custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank" rel="noopener noreferrer nofollow">萌ICP备20251314号</a><br>性能与安全由 <a href="https://chuqiyun.com/aff/KXCIIBKT" target="_blank" rel="noopener noreferrer nofollow">初七云</a> 提供</br>
   # 主题和框架的版权声明
   copyright: true
 
@@ -850,11 +850,11 @@ site_verification:
 # 注意：颜色值必须用双引号，如 "#000"，否则可能会导致错误！
 
 # 主题颜色配置
-# theme_color:
+theme_color:
 #   是否启用主题颜色
-#   enable: true
+  enable: true
 #   主颜色
-#   main: "#49B1F5"
+  main: "#DEA592"
 #   分页器颜色
 #   paginator: "#00c4b6"
 #   按钮悬停颜色
