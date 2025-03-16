@@ -12,10 +12,11 @@
     width: 100% !important
 
   .pagination-related
+    width: 50%
     height: 150px
 
-    +minWidth768()
-      flex: 1
+    +maxWidth768()
+      width: 100%
 
     .info-1
       .info-item-2
@@ -30,10 +31,6 @@
     margin-top: 40px
     width: 100%
     addBorderRadius()
-    display: flex
-
-    +maxWidth768()
-      flex-direction: column
 
 .layout
   .pagination

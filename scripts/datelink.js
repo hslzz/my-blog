@@ -14,6 +14,7 @@ hexo.extend.filter.register('before_post_render', function(data) {
         } else {
             // 如果data.date不是有效的日期对象，输出错误日志
             console.error('Invalid date object for post:', data);
+            console.error('data.date日期对象不合法：', data);
         }
     }
     // 返回处理后的数据
