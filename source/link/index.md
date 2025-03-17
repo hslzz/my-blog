@@ -7,10 +7,10 @@ type: 'link'
 # 本站信息
 
 ```yaml
-- name: 花生莲子粥
-link: https://blog.hslzz.cn/
-avatar: https://hslzz.cn/assets/img/favicon.png
-descr: 与世无争，不染于泥
+  - name: 花生莲子粥
+	link: https://blog.hslzz.cn/
+	avatar: https://hslzz.cn/assets/img/favicon.png
+	descr: 与世无争，不染于泥
 ```
 
 若您申请本站友链，您的网站应当符合如下要求：
