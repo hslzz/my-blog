@@ -58,7 +58,7 @@ social:
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: /img/favicon.png
+favicon: /favicon.ico
 
 # 头像设置
 avatar:
@@ -297,7 +297,7 @@ footer:
     # 是否启用所有者显示
     enable: true
     # 网站创建年份
-    since: 2019
+    since: 2024
   # 自定义文本
   custom_text: <a href="https://icp.gov.moe/?keyword=20251314" target="_blank" rel="noopener noreferrer nofollow">萌ICP备20251314号</a><br>性能与安全由 <a href="https://chuqiyun.com/aff/KXCIIBKT" target="_blank" rel="noopener noreferrer nofollow">初七云</a> 提供</br>
   # 主题和框架的版权声明
@@ -329,7 +329,7 @@ aside:
     # 是否显示作者信息卡片
     enable: true
     # 作者描述
-    description:
+    description: 
     button:
       # 是否显示按钮
       enable: true
@@ -477,9 +477,9 @@ rightside_item_order:
 # 锚点设置
 anchor:
   # 滚动时，URL 将根据标题 ID 更新
-  auto_update: false
+  auto_update: true
   # 点击标题滚动并更新锚点
-  click_to_scroll: false
+  click_to_scroll: true
 
 # 图片标题
 photofigcaption: true
@@ -936,7 +936,7 @@ font:
   code-font-family:
 
 # 网站标题和副标题的字体设置
-blog_title_font:
+blog_title_font: 
   font_link: 
   font-family: 
 
@@ -1222,14 +1222,72 @@ CDN:
   # 两者的选项：local/jsdelivr/unpkg/cdnjs/custom
   # 注意： Dev 版本只能使用 'local' 作为内部脚本
   # 注意：将第三方脚本设置为 'local' 时，需要安装 hexo-butterfly-extjs
-  internal_provider: local
-  third_party_provider: jsdelivr
+  internal_provider: custom
+  third_party_provider: custom # 这个只要你没魔改，改主题JS和CSS源码，就不用担心，直接换掉就行，改Pug不影响
 
   # 是否在 URL 中添加版本号，true 或 false
-  version: false
+  version: true # 加版本号更准确，要不然更新后可能js不起作用了
 
   # 自定义格式
   # 例如：https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
-  custom_format:
+  custom_format: https://cdn.jsdmirror.com/npm/${name}@${version}/${min_file} # 其他的jsd链接都会给你换成这个的，刚才那个好像有些资源不起作用，所以换成了这个，速度很快
 
   option:
+    # abcjs_basic_js:
+    # activate_power_mode:
+    # algolia_js:
+    # algolia_search:
+    # aplayer_css:
+    # aplayer_js:
+    # artalk_css:
+    # artalk_js:
+    # blueimp_md5:
+    # busuanzi: # 我感觉唯一需要修改的就是这个，官方的busuanzi很慢，可以尝试其他的
+    # canvas_fluttering_ribbon:
+    # canvas_nest:
+    # canvas_ribbon:
+    # click_heart:
+    # clickShowText:
+    # disqusjs:
+    # disqusjs_css:
+    # docsearch_css:
+    # docsearch_js:
+    # egjs_infinitegrid:
+    # fancybox:
+    # fancybox_css:
+    # fireworks:
+    # fontawesome:
+    # gitalk:
+    # gitalk_css:
+    # giscus:
+    # instantpage:
+    # instantsearch:
+    # katex:
+    # katex_copytex:
+    # lazyload:
+    # local_search:
+    # main:
+    # main_css:
+    # mathjax:
+    # medium_zoom:
+    # mermaid:
+    # meting_js:
+    # pangu:
+    # prismjs_autoloader:
+    # prismjs_js:
+    # prismjs_lineNumber_js:
+    # pjax:
+    # sharejs:
+    # sharejs_css:
+    # snackbar:
+    # snackbar_css:
+    # translate:
+    # twikoo:
+    # typed:
+    # utils:
+    # valine:
+    # waline_css:
+    # waline_js:
+
+
+

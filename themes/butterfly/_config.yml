@@ -1063,17 +1063,17 @@ CDN:
     # canvas_nest:
     # canvas_ribbon:
     # chartjs:
-    # click_heart:
+    click_heart: 
     # clickShowText:
     # disqusjs:
     # disqusjs_css:
     # docsearch_css:
     # docsearch_js:
     # egjs_infinitegrid:
-    # fancybox:
+    # fancybox: 
     # fancybox_css:
     # fireworks:
-    # fontawesome:
+    fontawesome: 
     # gitalk:
     # gitalk_css:
     # giscus:
@@ -1081,7 +1081,7 @@ CDN:
     # instantsearch:
     # katex:
     # katex_copytex:
-    # lazyload:
+    lazyload: 
     # local_search:
     # main:
     # main_css:
@@ -1092,13 +1092,13 @@ CDN:
     # prismjs_autoloader:
     # prismjs_js:
     # prismjs_lineNumber_js:
-    # pjax:
+    pjax: 
     # sharejs:
     # sharejs_css:
     # snackbar:
     # snackbar_css:
     # translate:
-    # twikoo:
+    # twikoo: 
     # typed:
     # utils:
     # valine:

@@ -38,7 +38,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
-  <!-- 如何解决Hexo中外链无rel属性导致SEO权重外流问题？ -->
+  <!-- 给Hexo的全站外链加上rel属性 -->
   <url>
     <loc>https://blog.hslzz.cn/20250305191500.html</loc>
     <lastmod>2025-03-05</lastmod>
