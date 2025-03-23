@@ -49,10 +49,6 @@
       link: https://blog.imoyan.top/
       avatar: https://bu.dusays.com/2024/10/12/6709ddf3513c5.jpg
       descr: 愿永不忘初心！
-    - name: Tianli
-      link: https://blog.tianli0.top/
-      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640
-      descr: 自知之明是最可贵的知识！
     - name: 煮雪话河山
       link: https://blog.cent1pedee.top/
       avatar: https://img.cent1pedee.top/img/wechat.jpg
@@ -65,7 +61,10 @@
       link: https://wgming.cn/
       avatar: https://q2.qlogo.cn/g?b=qq&nk=3489996586&s=100
       descr: 不用急着赶路，去感受路
-
+#    - name: Tianli
+#      link: https://blog.tianli0.top/
+#      avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=507249007&spec=640
+#      descr: 自知之明是最可贵的知识！
 - class_name: 小伙伴们
   class_desc: 我们在一起，共同进步
   link_list:
