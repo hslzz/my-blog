@@ -12,6 +12,10 @@ random: true
 	link: https://blog.hslzz.cn/
 	avatar: https://hslzz.cn/assets/img/favicon.png
 	descr: 与世无争，不染于泥
+	
+	RSS:
+	atom: https://blog.hslzz.cn/atom.xml
+	rss2: https://blog.hslzz.cn/rss2.xml
 ```
 
 若您申请本站友链，您的网站应当符合如下要求：
