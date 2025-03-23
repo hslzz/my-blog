@@ -1,8 +1,16 @@
 - author: 
   avatar: 
-  date: 2025-03-17 18:00:00
+  date: 2025-03-23 20:34:00
   key: key-1
   content: 
-    随机发癫
+    评论系统遭受邪教组织的攻击，添加了一些敏感词，正常用户的评论不会受影响，具体敏感词内容可见Github仓库：https://github.com/hslzz/my-blog
+  tags:
+    - 建站日记
+- author: 
+  avatar: 
+  date: 2025-03-21 18:00:00
+  key: key-1
+  content: 
+    今天天气真好，我想出去玩。
   tags:
     - 啥也没有
