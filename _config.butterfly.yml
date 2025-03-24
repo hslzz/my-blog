@@ -1204,8 +1204,8 @@ inject:
 
   # favicon
     - <link rel="icon" type="image/png" loading="lazy" href="/favicon/favicon-96x96.png" sizes="96x96" />
-    - <link rel="icon" type="image/png" sizes="32x32" loading="lazy" href="/favicon-32x32.png">
-    - <link rel="icon" type="image/png" sizes="16x16" loading="lazy" href="/favicon-16x16.png">
+    - <link rel="icon" type="image/png" sizes="32x32" loading="lazy" href="/favicon/favicon-32x32.png">
+    - <link rel="icon" type="image/png" sizes="16x16" loading="lazy" href="/favicon/favicon-16x16.png">
     - <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
     - <link rel="shortcut icon" loading="lazy" href="/favicon.ico" />
     - <link rel="apple-touch-icon" sizes="180x180" loading="lazy" href="/favicon/apple-touch-icon.png" />
