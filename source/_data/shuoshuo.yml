@@ -1,9 +1,17 @@
 - author: 
   avatar: 
-  date: 2025-03-23 20:34:00
-  key: key-1
+  date: 2025-03-26 04:25:20
+  key: key-3
   content: 
-    评论系统遭受邪教组织的攻击，添加了一些敏感词，正常用户的评论不会受影响，具体敏感词内容可见Github仓库：https://github.com/hslzz/my-blog
+    今天我又梦到了你，你的脸上还是挂着那么灿烂的笑容。已经一年没有见到你了，我好想你，你知道吗，你在职专还安好吗。
+  tags:
+    - 思念
+- author: 
+  avatar: 
+  date: 2025-03-23 20:34:00
+  key: key-2
+  content: 
+    评论系统遭受邪教组织的攻击，添加了一些敏感词，正常用户的评论不会受影响，具体敏感词内容可见Github仓库：https://github.com/hslzz/sensitive_word
   tags:
     - 建站日记
 - author: 
