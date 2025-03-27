@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>花生莲子粥の小窝</title>
+  <icon>https://blog.hslzz.cn/favicon.ico</icon>
+  <subtitle>与世无争，不染于泥</subtitle>
+  <link href="https://blog.hslzz.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.hslzz.cn/"/>
+  <updated>2025-03-27T11:19:02.911Z</updated>
+  <id>https://blog.hslzz.cn/</id>
+  
+  <author>
+    <name>花生莲子粥</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>智能的给Hexo全站外链加上rel标签，解决seo权重外流问题</title>
+    <link href="https://blog.hslzz.cn/20250305191500.html"/>
+    <id>https://blog.hslzz.cn/20250305191500.html</id>
+    <published>2025-03-05T11:15:00.000Z</published>
+    <updated>2025-03-27T11:19:02.911Z</updated>
+    
+    
+    <summary type="html">本文详解如何解决Hexo外链缺失rel标签致seo权重外流的问题。提供全局自动添加rel属性的脚本方案，覆盖博客所有页面，无需修改主题和配置文件，保护你的搜索引擎排名。</summary>
+    
+    
+    
+    <category term="建站折腾史" scheme="https://blog.hslzz.cn/categories/%E5%BB%BA%E7%AB%99%E6%8A%98%E8%85%BE%E5%8F%B2/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://blog.hslzz.cn/tags/Butterfly/"/>
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【整活】用29行C++代码写一个Deepseek</title>
+    <link href="https://blog.hslzz.cn/20250217135000.html"/>
+    <id>https://blog.hslzz.cn/20250217135000.html</id>
+    <published>2025-02-17T05:50:00.000Z</published>
+    <updated>2025-03-27T11:19:02.911Z</updated>
+    
+    
+    <summary type="html">这篇文章纯属整整活儿</summary>
+    
+    
+    
+    
+    <category term="整活" scheme="https://blog.hslzz.cn/tags/%E6%95%B4%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>超简单的Butterfly引入字体教程</title>
+    <link href="https://blog.hslzz.cn/20250214123500.html"/>
+    <id>https://blog.hslzz.cn/20250214123500.html</id>
+    <published>2025-02-14T04:35:00.000Z</published>
+    <updated>2025-03-27T11:19:02.911Z</updated>
+    
+    
+    <summary type="html">本文手把手教你如何在Hexo的Butterfly主题中优雅地引入自定义字体，助你轻松打造个性化博客视觉体验，告别默认字体的单调限制！</summary>
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://blog.hslzz.cn/tags/Butterfly/"/>
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【教程】在Kali2024.4安装QQ Linux版</title>
+    <link href="https://blog.hslzz.cn/20250127150000.html"/>
+    <id>https://blog.hslzz.cn/20250127150000.html</id>
+    <published>2025-01-27T07:00:00.000Z</published>
+    <updated>2025-03-27T11:19:02.911Z</updated>
+    
+    
+    <summary type="html">阅读这篇完整指南，了解如何在Kali系统上用deb安装QQ的方法。</summary>
+    
+    
+    
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Kali" scheme="https://blog.hslzz.cn/tags/Kali/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo框架 + Butterfly主题安装日记</title>
+    <link href="https://blog.hslzz.cn/20241206110000.html"/>
+    <id>https://blog.hslzz.cn/20241206110000.html</id>
+    <published>2024-12-06T03:00:00.000Z</published>
+    <updated>2025-02-17T04:50:00.000Z</updated>
+    
+    
+    <summary type="html">阅读这篇完整指南，了解如何掌握安装Hexo+Butterfly博客的方法。我们将介绍所有方法，包括：安装node和npm，npm换源，安装Hexo和Butterfly。</summary>
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://blog.hslzz.cn/tags/Butterfly/"/>
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+</feed>
