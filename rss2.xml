@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>花生莲子粥の小窝</title>
+    <link>https://blog.hslzz.cn/</link>
+    
+    <image>
+      <url>https://blog.hslzz.cn/favicon.ico</url>
+      <title>花生莲子粥の小窝</title>
+      <link>https://blog.hslzz.cn/</link>
+    </image>
+    
+    <atom:link href="https://blog.hslzz.cn/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>与世无争，不染于泥</description>
+    <pubDate>Sat, 05 Apr 2025 03:55:27 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>智能的给Hexo全站外链加上rel标签，解决seo权重外流问题</title>
+      <link>https://blog.hslzz.cn/20250305191500.html</link>
+      <guid>https://blog.hslzz.cn/20250305191500.html</guid>
+      <pubDate>Wed, 05 Mar 2025 11:15:00 GMT</pubDate>
+      
+      <description>本文详解如何解决Hexo外链缺失rel标签致seo权重外流的问题。提供全局自动添加rel属性的脚本方案，覆盖博客所有页面，无需修改主题和配置文件，保护你的搜索引擎排名。</description>
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/categories/%E5%BB%BA%E7%AB%99%E6%8A%98%E8%85%BE%E5%8F%B2/">建站折腾史</category>
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>https://blog.hslzz.cn/20250305191500.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【整活】用29行C++代码写一个Deepseek</title>
+      <link>https://blog.hslzz.cn/20250217135000.html</link>
+      <guid>https://blog.hslzz.cn/20250217135000.html</guid>
+      <pubDate>Mon, 17 Feb 2025 05:50:00 GMT</pubDate>
+      
+      <description>这篇文章纯属整整活儿</description>
+      
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%B4%E6%B4%BB/">整活</category>
+      
+      
+      <comments>https://blog.hslzz.cn/20250217135000.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>超简单的Butterfly引入字体教程</title>
+      <link>https://blog.hslzz.cn/20250214123500.html</link>
+      <guid>https://blog.hslzz.cn/20250214123500.html</guid>
+      <pubDate>Fri, 14 Feb 2025 04:35:00 GMT</pubDate>
+      
+      <description>本文手把手教你如何在Hexo的Butterfly主题中优雅地引入自定义字体，助你轻松打造个性化博客视觉体验，告别默认字体的单调限制！</description>
+      
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>https://blog.hslzz.cn/20250214123500.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【教程】在Kali2024.4安装QQ Linux版</title>
+      <link>https://blog.hslzz.cn/20250127150000.html</link>
+      <guid>https://blog.hslzz.cn/20250127150000.html</guid>
+      <pubDate>Mon, 27 Jan 2025 07:00:00 GMT</pubDate>
+      
+      <description>阅读这篇完整指南，了解如何在Kali系统上用deb安装QQ的方法。</description>
+      
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/Kali/">Kali</category>
+      
+      
+      <comments>https://blog.hslzz.cn/20250127150000.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hexo框架 + Butterfly主题安装日记</title>
+      <link>https://blog.hslzz.cn/20241206110000.html</link>
+      <guid>https://blog.hslzz.cn/20241206110000.html</guid>
+      <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
+      
+      <description>阅读这篇完整指南，了解如何掌握安装Hexo+Butterfly博客的方法。我们将介绍所有方法，包括：安装node和npm，npm换源，安装Hexo和Butterfly。</description>
+      
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>https://blog.hslzz.cn/20241206110000.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
