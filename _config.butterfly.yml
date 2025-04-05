@@ -1117,7 +1117,7 @@ note:
 # https://github.com/MoOx/pjax
 pjax:
   # 是否启用 pjax
-  enable: true
+  enable: false
   # 排除指定页面不使用 pjax，如 '/music/'
   exclude:
     # - /xxxxxx/
