@@ -25,26 +25,32 @@
 	site: blog.yaria.top
 	descr: 人有悲欢离合 月有阴晴圆缺
 
-	name: redish101
+	name: Redish101
 	Mail: 未知
 	From: 中华人民共和国 People's Republic of China
 	site: blog.redish101.top
 	descr: 学生 人 活的
 
-/* 网站依托的框架和工具 */
+感谢网站依托的框架和工具提供商：
 	框架：Hexo
 	官网：hexo.io
 	
 	主题：Butterfly
 	官网：butterfly.js.org
 
-	云托管： vercel
+	云托管：vercel
 	官网：vercel.com
 
-	数据库：MongoDB Cloud
+	评论系统数据库：MongoDB Cloud
 	官网：cloud.mongodb.com
 
 	CDN：初七云
 	官网：chuqiyun.com
 
+	静态资源CDN服务：jsdmirror
+	官网：www.jsdmirror.com
+
+
 编写时间：2025年3月26日
+
+第二次更新时间：2025年4月12日
