@@ -17,7 +17,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-<!--【教程】在Kali2024.4安装QQ Linux版 -->
+<!-- 在Kali2024.4安装QQ Linux版 -->
   <url>
     <loc>https://blog.hslzz.cn/20250127150000.html</loc>
     <lastmod>2025-01-27</lastmod>
@@ -31,7 +31,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <!-- 【整活】用29行C++代码写一个Deepseek -->
+  <!-- （整活）用29行C++代码写一个Deepseek -->
   <url>
     <loc>https://blog.hslzz.cn/20250217135000.html</loc>
     <lastmod>2025-02-17</lastmod>
@@ -45,8 +45,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-<!-- -->
-  
+<!-- 优化Hexo博客文章永久链接的几种方法 -->
+  <url>
+    <loc>https://blog.hslzz.cn/20250412100000.html</loc>
+    <lastmod>2025-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <!-- 更多页面... -->
   <!-- 友链页 -->
   <url>
@@ -60,46 +65,46 @@
     <loc>https://blog.hslzz.cn/categories/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.3</priority>
   </url>
   <!--标签页-->
   <url>
     <loc>https://blog.hslzz.cn/tags/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://blog.hslzz.cn/tags/Hexo/</loc>
     <lastmod>2025-01-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://blog.hslzz.cn/tags/Butterfly/</loc>
     <lastmod>2025-01-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.3</priority>
   </url>
   
   <url>
     <loc>https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-01-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.3</priority>
   </url>
   
   <url>
     <loc>https://blog.hslzz.cn/tags/Kali/</loc>
     <lastmod>2025-01-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.3</priority>
   </url>
   <!--时间轴页-->
   <url>
     <loc>https://blog.hslzz.cn/archives/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.3</priority>
   </url>
 </urlset>
