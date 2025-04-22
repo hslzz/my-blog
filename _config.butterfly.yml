@@ -58,12 +58,15 @@ social:
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: /favicon.ico
+# favicon: /favicon.ico
+favicon: https://img.mduge.com/i/2025/04/22/68078ac607098.ico
+
 
 # 头像设置
 avatar:
   # 头像图片链接
-  img: /img/avatar.png
+  # img: /img/avatar.png
+  img: https://img.mduge.com/i/2025/04/22/680789d231d4b.png
   # 是否启用头像效果
   effect: false
 
@@ -71,7 +74,8 @@ avatar:
 disable_top_img: false
 
 # 如果页面未设置横幅，则显示默认的横幅图片
-default_top_img: /img/108552684_p8.png
+# default_top_img: /img/108552684_p8.png
+default_top_img: https://img.mduge.com/i/2025/04/22/680788cb22d9a.png
 
 # 主页的横幅图片
 index_img: 
@@ -101,7 +105,8 @@ footer_img: true
 # 网站背景
 # 可以设置为颜色或图片
 # 图片格式: url(http://xxxxxx.com/xxx.jpg)
-background: /img/108552684_p2.png
+# background: /img/108552684_p2.png
+background: https://img.mduge.com/i/2025/04/22/6807890b6704a.png
 
 # 封面设置
 cover:
@@ -119,9 +124,13 @@ cover:
 # 替换损坏的图片
 error_img:
   # 友链页面的错误图片
-  flink: /img/friend_404.gif
+  # flink: /img/friend_404.gif
+  flink: https://img.mduge.com/i/2025/04/22/68078bd390072.gif
+
   # 文章页面的错误图片
-  post_page: /img/404.jpg
+  # post_page: /img/404.jpg
+  post_page: https://img.mduge.com/i/2025/04/22/68078be0d29ea.jpg
+
 
 # 简单的 404 页面
 error_404:
@@ -1162,15 +1171,20 @@ lazyload:
 # ---------------
 pwa:
   # 是否启用 PWA
-  enable: false
+  enable: true
   # PWA manifest 文件路径
   manifest:
   # Apple Touch 图标路径
-  apple_touch_icon: /favicon/apple-touch-icon.png
+  # apple_touch_icon: /favicon/apple-touch-icon.png
+  apple_touch_icon: https://img.mduge.com/i/2025/04/22/68078af95bfbb.png
+
   # 32x32 像素的 favicon 图标路径
-  favicon_32_32: /favicon/favicon-32x32.png
+  # favicon_32_32: /favicon/favicon-32x32.png
+  favicon_32_32: https://img.mduge.com/i/2025/04/22/68078a855a47f.png
+  
   # 16x16 像素的 favicon 图标路径
-  favicon_16_16: /favicon/favicon-16x16.png
+  # favicon_16_16: /favicon/favicon-16x16.png
+  favicon_16_16: https://img.mduge.com/i/2025/04/22/68078aa5ea520.png
   # mask 图标路径
   mask_icon:
 
@@ -1203,14 +1217,19 @@ inject:
     - <link rel="stylesheet" href="/css/custom.css">
 
   # favicon
-    - <link rel="icon" type="image/png" loading="lazy" href="/favicon/favicon-96x96.png" sizes="96x96" />
-    - <link rel="icon" type="image/png" sizes="32x32" loading="lazy" href="/favicon/favicon-32x32.png">
-    - <link rel="icon" type="image/png" sizes="16x16" loading="lazy" href="/favicon/favicon-16x16.png">
-    - <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
-    - <link rel="shortcut icon" loading="lazy" href="/favicon.ico" />
-    - <link rel="apple-touch-icon" sizes="180x180" loading="lazy" href="/favicon/apple-touch-icon.png" />
+    # - <link rel="icon" type="image/png" loading="lazy" href="/favicon/favicon-96x96.png" sizes="96x96" />
+    - <link rel="icon" type="image/png" loading="lazy" href="https://img.mduge.com/i/2025/04/22/68078a109939b.png" sizes="96x96" />
+    # - <link rel="icon" type="image/png" sizes="32x32" loading="lazy" href="/favicon/favicon-32x32.png">
+    - <link rel="icon" type="image/png" sizes="32x32" loading="lazy" href="https://img.mduge.com/i/2025/04/22/68078a855a47f.png">
+    # - <link rel="icon" type="image/png" sizes="16x16" loading="lazy" href="/favicon/favicon-16x16.png">
+    - <link rel="icon" type="image/png" sizes="16x16" loading="lazy" href="https://img.mduge.com/i/2025/04/22/68078aa5ea520.png">
+    # - <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+    # - <link rel="shortcut icon" loading="lazy" href="/favicon.ico" />
+    - <link rel="shortcut icon" loading="lazy" href="https://img.mduge.com/i/2025/04/22/68078ac607098.ico" />
+    # - <link rel="apple-touch-icon" sizes="180x180" loading="lazy" href="/favicon/apple-touch-icon.png" />
+    - <link rel="apple-touch-icon" sizes="180x180" loading="lazy" href="https://img.mduge.com/i/2025/04/22/68078af95bfbb.png" />
     - <meta name="apple-mobile-web-app-title" content="花生莲子粥" />
-    - <link rel="manifest" loading="lazy" href="/favicon/site.webmanifest" />
+    # - <link rel="manifest" loading="lazy" href="/favicon/site.webmanifest" />
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>
