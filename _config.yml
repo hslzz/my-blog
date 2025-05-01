@@ -127,3 +127,5 @@ feed:
   icon: favicon.ico  # 设置Feed的图标，默认使用_config.yml中指定的电子邮件的gravatar
   autodiscovery: true  # 是否启用Feed的自动发现功能，true为启用，false为禁用
   template:  # 设置自定义Feed模板的路径，可以指定一个或多个模板
+sitemap:
+    path: sitemap.xml
