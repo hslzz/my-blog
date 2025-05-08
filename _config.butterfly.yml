@@ -1149,9 +1149,10 @@ aplayerInject:
 # 位置: top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
   # 是否启用 Snackbar
-  enable: false
+  enable: true
   # 通知位置
-  position: bottom-left
+  # 可选 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
+  position: top-right
   # 浅色模式和深色模式下的通知背景颜色
   bg_light: '#49b1f5'
   bg_dark: '#1f1f1f'
