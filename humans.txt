@@ -1,0 +1,56 @@
+/* 关于站长 */
+	Name: 花生莲子粥
+	Mail: hi@hslzz.cn
+	From: 中华人民共和国福建省三明市 Sanming City, Fujian Province, People's Republic of China
+	site: blog.hslzz.cn
+
+
+/* 鸣谢名单 网站的每个部分都有他们的功劳 */
+
+为本站做出的贡献最大，无偿指导站长搭建了这个博客网站并解决了好多好多的问题，赛博活佛！：	
+	Name: 清羽飞扬
+	Mail: 3162475700@qq.com
+	From: 中华人民共和国 People's Republic of China
+	site: blog.liushen.fun
+	descr: 柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜
+
+免费为本站提供CDN服务：
+	Name: 初七云
+	site: chuqiyun.com
+
+感谢其他帮助过我的朋友们：
+	name: Ariasaka
+	Mail: 未知
+	From: 中华人民共和国重庆市 Chongqing City, People's Republic of China
+	site: blog.yaria.top
+	descr: 人有悲欢离合 月有阴晴圆缺
+
+	name: Redish101
+	Mail: 未知
+	From: 中华人民共和国 People's Republic of China
+	site: blog.redish101.top
+	descr: 学生 人 活的
+
+感谢网站依托的框架和工具提供商：
+	框架：Hexo
+	官网：hexo.io
+	
+	主题：Butterfly
+	官网：butterfly.js.org
+
+	云托管：vercel
+	官网：vercel.com
+
+	评论系统数据库：MongoDB Cloud
+	官网：cloud.mongodb.com
+
+	CDN：初七云
+	官网：chuqiyun.com
+
+	静态资源CDN服务：jsdmirror
+	官网：www.jsdmirror.com
+
+
+编写时间：2025年3月26日
+
+第二次更新时间：2025年4月12日
