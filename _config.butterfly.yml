@@ -294,15 +294,15 @@ post_pagination: 1
 # 显示文章过期通知
 noticeOutdate:
   # 是否启用过期通知
-  enable: false
+  enable: true
   # 样式: simple / flat
   style: flat
   # 多少天后显示通知
   limit_day: 365
   # 位置: top / bottom
   position: top
-  message_prev: 已经过了
-  message_next: 天自上次更新，文章内容可能已过时。
+  message_prev: 自上次更新以来，已经过了
+  message_next: 天，文章内容可能已经过时。
 
 # --------------------------------------
 # 页脚设置
