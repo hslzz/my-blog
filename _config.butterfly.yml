@@ -239,7 +239,7 @@ toc:
   # 是否使用简洁风格（仅适用于文章）
   style_simple: false
   # 是否显示滚动百分比
-  scroll_percent: true
+  scroll_percent: false
 
 post_copyright:
   # 是否启用版权声明
