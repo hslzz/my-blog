@@ -146,13 +146,14 @@ post_meta:
   # 主页页面
   page:
     # 日期类型: created / updated / both
+    # 显示文章的时间，可选 created / updated / both
     date_type: created
     # 日期格式: date / relative
     date_format: date
     # 是否显示分类
     categories: true
     # 是否显示标签
-    tags: false
+    tags: true
     # 是否显示文字标签
     label: true
   # 文章页面
