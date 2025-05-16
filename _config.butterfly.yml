@@ -1239,6 +1239,8 @@ inject:
     # - <link rel="manifest" loading="lazy" href="/favicon/site.webmanifest" />
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
+    # Ahrefs Web Analytics 分析
+    - <script src="https://analytics.ahrefs.com/analytics.js" data-key="1ZdA0Ea3tgOvDaAMeuQujQ" async></script>
     # - <script src="xxxx"></script>
 
 # CDN 设置
