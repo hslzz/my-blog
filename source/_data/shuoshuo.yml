@@ -1,13 +1,5 @@
 - author: 
   avatar: 
-  date: 2025-03-23 20:34:00
-  key: shuoshuo-2
-  content: 
-    评论系统遭受邪教组织的攻击，添加了验证码和一些敏感词，正常用户的评论不会受影响，具体敏感词内容可见Github仓库：https://github.com/hslzz/sensitive_word
-  tags:
-    - 建站日记
-- author: 
-  avatar: 
   date: 2025-03-21 18:00:00
   key: shuoshuo-1
   content: 
