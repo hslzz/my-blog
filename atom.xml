@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>花生莲子粥の小窝</title>
+  <icon>https://blog.hslzz.cn/favicon.ico</icon>
+  <subtitle>与世无争，不染于泥</subtitle>
+  <link href="https://blog.hslzz.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.hslzz.cn/"/>
+  <updated>2025-04-13T05:00:00.000Z</updated>
+  <id>https://blog.hslzz.cn/</id>
+  
+  <author>
+    <name>花生莲子粥</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>优化Hexo博客文章永久链接的几种方法</title>
+    <link href="https://blog.hslzz.cn/posts/20250412100000.html"/>
+    <id>https://blog.hslzz.cn/posts/20250412100000.html</id>
+    <published>2025-04-12T02:00:00.000Z</published>
+    <updated>2025-04-13T05:00:00.000Z</updated>
+    
+    
+    <summary type="html">本文介绍三种优化 Hexo 博客永久链接的方法，解决默认链接过长、不稳定的问题，提升 SEO 和用户体验。通过时间戳、哈希生成等方法，轻松实现简洁、稳定的永久链接格式。</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/tags/Hexo/"/>
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>智能的给Hexo全站外链加上rel标签，解决seo权重外流问题</title>
+    <link href="https://blog.hslzz.cn/posts/20250305191500.html"/>
+    <id>https://blog.hslzz.cn/posts/20250305191500.html</id>
+    <published>2025-03-05T11:15:00.000Z</published>
+    <updated>2025-05-17T06:52:47.558Z</updated>
+    
+    
+    <summary type="html">为Hexo博客全站外链添加rel标签，解决 SEO 权重外流问题，提升博客优化效果。</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://blog.hslzz.cn/tags/Butterfly/"/>
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>（整活）用29行C++代码写一个Deepseek</title>
+    <link href="https://blog.hslzz.cn/posts/20250217135000.html"/>
+    <id>https://blog.hslzz.cn/posts/20250217135000.html</id>
+    <published>2025-02-17T05:50:00.000Z</published>
+    <updated>2025-05-17T06:52:47.558Z</updated>
+    
+    
+    <summary type="html">这篇文章纯属整整活儿</summary>
+    
+    
+    
+    <category term="整活" scheme="https://blog.hslzz.cn/categories/%E6%95%B4%E6%B4%BB/"/>
+    
+    
+    <category term="整活" scheme="https://blog.hslzz.cn/tags/%E6%95%B4%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在Kali2024.4安装QQ Linux版</title>
+    <link href="https://blog.hslzz.cn/posts/20250127150000.html"/>
+    <id>https://blog.hslzz.cn/posts/20250127150000.html</id>
+    <published>2025-01-27T07:00:00.000Z</published>
+    <updated>2025-05-17T06:52:47.558Z</updated>
+    
+    
+    <summary type="html">阅读这篇完整指南，了解如何在Kali系统上用deb安装QQ的方法。</summary>
+    
+    
+    
+    <category term="Kali" scheme="https://blog.hslzz.cn/categories/Kali/"/>
+    
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Kali" scheme="https://blog.hslzz.cn/tags/Kali/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo + Butterfly博客安装教程</title>
+    <link href="https://blog.hslzz.cn/posts/20241206110000.html"/>
+    <id>https://blog.hslzz.cn/posts/20241206110000.html</id>
+    <published>2024-12-06T03:00:00.000Z</published>
+    <updated>2025-02-17T04:50:00.000Z</updated>
+    
+    
+    <summary type="html">阅读这篇完整指南，了解安装Hexo+Butterfly博客的方法。手把手教你从零开始搭建个人博客。零基础也能轻松上手！</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.hslzz.cn/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://blog.hslzz.cn/tags/Butterfly/"/>
+    
+    <category term="教程" scheme="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+</feed>

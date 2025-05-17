@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>花生莲子粥の小窝</title>
+    <link>https://blog.hslzz.cn/</link>
+    
+    <image>
+      <url>https://blog.hslzz.cn/favicon.ico</url>
+      <title>花生莲子粥の小窝</title>
+      <link>https://blog.hslzz.cn/</link>
+    </image>
+    
+    <atom:link href="https://blog.hslzz.cn/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>与世无争，不染于泥</description>
+    <pubDate>Sun, 13 Apr 2025 05:00:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>优化Hexo博客文章永久链接的几种方法</title>
+      <link>https://blog.hslzz.cn/posts/20250412100000.html</link>
+      <guid>https://blog.hslzz.cn/posts/20250412100000.html</guid>
+      <pubDate>Sat, 12 Apr 2025 02:00:00 GMT</pubDate>
+      
+      <description>本文介绍三种优化 Hexo 博客永久链接的方法，解决默认链接过长、不稳定的问题，提升 SEO 和用户体验。通过时间戳、哈希生成等方法，轻松实现简洁、稳定的永久链接格式。</description>
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/categories/Hexo/">Hexo</category>
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>https://blog.hslzz.cn/posts/20250412100000.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>智能的给Hexo全站外链加上rel标签，解决seo权重外流问题</title>
+      <link>https://blog.hslzz.cn/posts/20250305191500.html</link>
+      <guid>https://blog.hslzz.cn/posts/20250305191500.html</guid>
+      <pubDate>Wed, 05 Mar 2025 11:15:00 GMT</pubDate>
+      
+      <description>为Hexo博客全站外链添加rel标签，解决 SEO 权重外流问题，提升博客优化效果。</description>
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/categories/Hexo/">Hexo</category>
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>https://blog.hslzz.cn/posts/20250305191500.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>（整活）用29行C++代码写一个Deepseek</title>
+      <link>https://blog.hslzz.cn/posts/20250217135000.html</link>
+      <guid>https://blog.hslzz.cn/posts/20250217135000.html</guid>
+      <pubDate>Mon, 17 Feb 2025 05:50:00 GMT</pubDate>
+      
+      <description>这篇文章纯属整整活儿</description>
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/categories/%E6%95%B4%E6%B4%BB/">整活</category>
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%B4%E6%B4%BB/">整活</category>
+      
+      
+      <comments>https://blog.hslzz.cn/posts/20250217135000.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在Kali2024.4安装QQ Linux版</title>
+      <link>https://blog.hslzz.cn/posts/20250127150000.html</link>
+      <guid>https://blog.hslzz.cn/posts/20250127150000.html</guid>
+      <pubDate>Mon, 27 Jan 2025 07:00:00 GMT</pubDate>
+      
+      <description>阅读这篇完整指南，了解如何在Kali系统上用deb安装QQ的方法。</description>
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/categories/Kali/">Kali</category>
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/Kali/">Kali</category>
+      
+      
+      <comments>https://blog.hslzz.cn/posts/20250127150000.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hexo + Butterfly博客安装教程</title>
+      <link>https://blog.hslzz.cn/posts/20241206110000.html</link>
+      <guid>https://blog.hslzz.cn/posts/20241206110000.html</guid>
+      <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
+      
+      <description>阅读这篇完整指南，了解安装Hexo+Butterfly博客的方法。手把手教你从零开始搭建个人博客。零基础也能轻松上手！</description>
+      
+      
+      
+      
+      <category domain="https://blog.hslzz.cn/categories/Hexo/">Hexo</category>
+      
+      
+      <category domain="https://blog.hslzz.cn/tags/Hexo/">Hexo</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="https://blog.hslzz.cn/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>https://blog.hslzz.cn/posts/20241206110000.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
